@@ -14,6 +14,10 @@ Vous êtes un photographe ( portrait, paysage )
 
 Changer le thème de WordPress actuel, créer une autre catégorie Evénements en publiant quelques articles, puis créer une page mentions légales.
 
+Créez les liens vers la catégorie Evénement et la page des mentions légales.
+
+Rmq : choisissez un thème adapté à vos besoins.
+
 ## Exercice déployer WordPress sur Alwaysdata   
 
 1. Choisissez la méthode simple pour installer votre site WordPress sur Alwaysdata pour jeudi. Configurez votre portfolio ou site de photographe ou graphiste
