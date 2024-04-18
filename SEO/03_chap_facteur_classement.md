@@ -47,10 +47,9 @@ Les moteurs de recherche favorisent le contenu de qualité qui répond aux besoi
     <p>Téléphone : 123-456-7890</p>
     <p>Email : contact@lesdelicesdemarie.com</p>
 </body>
-
 ```
 
-Dans cet exemple, le contenu est structuré à l'aide de balises HTML telles que <h1> pour les titres principaux, <p> pour les paragraphes, et <ul> pour les listes à puces. Un contenu bien structuré et informatif est plus susceptible d'attirer l'attention des moteurs de recherche.
+Dans cet exemple, le contenu est structuré à l'aide de balises HTML telles que `<h1>` pour les titres principaux, `<p>` pour les paragraphes, et `<ul>` pour les listes à puces. Un contenu bien structuré et informatif est plus susceptible d'attirer l'attention des moteurs de recherche.
 
 **Backlinks : L'importance des liens externes pour le SEO.**
 
